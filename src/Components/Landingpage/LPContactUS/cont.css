@@ -1,0 +1,52 @@
+
+  .dc{
+    font-size: 25px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: black;
+   
+  }
+  .office-info{
+    font-size: 20px;
+   
+    margin-left: 20px;
+    margin-top: 10px;
+    
+
+  }
+.bd{
+    margin-top:10px;
+}
+.zx {  
+    text-decoration: underline }  
+.uv{
+  color: rgb(32, 30, 30);
+}
+.rol{
+  text-decoration: wheat;
+  font-size: 18px;
+
+  
+}
+.web{
+  text-align: center;
+}
+.foo {
+ 
+  color: #fff;
+  padding: 50px 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  height: 350px;
+ 
+}
+.do{
+  font-size: 18px;
+  margin-bottom: 0px;
+  margin-left: 20px;
+  margin-top: 20px;
+  color: black;
+ 
+}

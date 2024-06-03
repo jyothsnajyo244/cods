@@ -1,0 +1,183 @@
+
+.about-us-section {
+    text-align: center; 
+      margin-top: 300px;
+      margin-left: 20px;
+      margin-right: 20px;
+  
+    }
+    
+    .about-us-section h2 {
+      margin-bottom: 20px;
+    }
+    
+    .about-us-cards {
+      display: flex;
+      justify-content: space-around; 
+      flex-wrap: wrap;
+    }
+    
+    .card {
+      width: 335px; 
+      margin: 20px;
+      background-color: #6e89c7;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      height: 450px;
+    }
+    
+    .card-info {
+      padding: 20px;
+    }
+    
+    .card-info h3 {
+      margin-top: 30px;
+    }
+    
+    .card-info p {
+      margin-top: 5px;
+      margin-bottom: 10px;
+    }
+    .card-info img {
+      margin-top: 2px;
+      width: 4cm;
+      height: 3.5cm;
+      border-radius: 8px;
+    }
+  
+   
+    .contact-us-container form {
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .contact-us-container label,
+    .contact-us-container input,
+    .contact-us-container textarea {
+      margin-bottom: 10px;
+    }
+    
+    .contact-us-container input,
+    .contact-us-container textarea {
+      padding: 10px;
+      border: 1px solid #2e2b2b;
+      border-radius: 5px;
+    }
+    
+    .contact-us-container button {
+      padding: 10px;
+      border: none;
+      background-color: #80a8d3;
+      color: #722727;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .contact-us-container button:hover {
+      background-color: #0056b3;
+    }
+    
+    
+    .ms{
+      position: absolute;
+      bottom: 12.5cm;
+      right: 320px;
+      width: 200px; 
+     
+      padding: 20px;
+      border-radius: 10px;
+      
+    }
+  
+    
+  .form-group {
+    flex: 0 0 calc(50% - 10px); 
+    margin-bottom: 5px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 5px;
+  }
+  
+  .form-group textarea {
+    resize: vertical;
+  }
+  
+    
+  .about-us-section {
+    padding: 20px 20px;
+    background-color: rgb(196, 209, 181);
+    text-align: center; 
+  }
+  
+  .about-us-section h2 {
+    margin-bottom: 20px;
+  }
+  
+  .about-us-cards {
+    display: flex;
+    justify-content: space-around; 
+    flex-wrap: wrap;
+   
+  }
+  
+
+  
+  
+  .contact-us-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .zo{
+    margin-top: 0px;
+  }
+  .dos{
+position: relative;
+   
+      bottom: 475px;
+    
+      right: 180px;
+      width: 300px; 
+   margin-left: 900px;
+      padding: 20px;
+      border-radius: 10px;
+      font-size: 25px;
+      height: 20px;
+  }
+  .co {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    
+margin-top: -480px;
+    right: 180px;
+    width: 300px; 
+    margin-left: 720px;
+    background-color: rgb(73, 75, 71);
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 320px;
+   
+  }
+  .card {
+    width: 335px; 
+    margin: 20px;
+    background-image: linear-gradient(to bottom right, #fcd34d, #ef4444, #ec4899);
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 450px;
+    transition: transform 0.3s ease; 
+  }
